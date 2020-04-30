@@ -77,6 +77,6 @@ object RequestQuery extends App with LazyLogging{
 
   logger.info("Repo result generated")
 
-  //printRepoResult(result)
-  printUserResult(result2)
+  printRepoResult(result)
+  //printUserResult(result2)
 }
