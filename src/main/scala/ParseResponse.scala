@@ -79,7 +79,6 @@ class ParseResponse extends LazyLogging{
 
     }
 
-
   private def createRepo(jValue: JsValue, listPullRequest: List[PullRequest], listCommitComments: List[CommitComments]): Repository = {
     val value = jValue \ "node"
 

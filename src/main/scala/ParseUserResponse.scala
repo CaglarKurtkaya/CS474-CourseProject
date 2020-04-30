@@ -2,10 +2,15 @@ import play.api.libs.json.{JsArray, JsValue, Json}
 import scala.collection.mutable.ListBuffer
 
 class ParseUserResponse {
-  def processUserResult(queryResult: String) : List[User] = {
-    val response = Json.parse(queryResult)
 
-    val userNodes = (response \ "data" \ "search" \ "edges").get.as[JsArray]
+  //Method for putting the repo in a list
+  def processUserResult(queryResult: String) : List[User] = {
+    //Parse the json string to json object
+    val responseJson = Json.parse(queryResult)
+
+    //Extract all the repository nodes
+    val userNodes = (responseJson \ "data" \ "search" \ "edges").get.as[JsArray]
+
     val topUsers = new ListBuffer[User]
 
     for (userNode <- userNodes.value) {
