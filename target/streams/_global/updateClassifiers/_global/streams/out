@@ -1,3 +1,4 @@
 [debug] "not up to date. inChanged = true, force = false
 [debug] Updating ProjectRef(uri("file:/Users/Emily/Google%20Drive%20(wlin48@uic.edu)/UIC/Course/Spring%2020/CS%20474/Project/"), "project")...
 [debug] Done updating ProjectRef(uri("file:/Users/Emily/Google%20Drive%20(wlin48@uic.edu)/UIC/Course/Spring%2020/CS%20474/Project/"), "project")
+[warn] There may be incompatibilities among your library dependencies; run 'evicted' to see detailed eviction warnings.

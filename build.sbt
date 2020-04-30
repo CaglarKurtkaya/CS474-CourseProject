@@ -10,4 +10,6 @@ libraryDependencies ++= Seq(
   "org.scalatest" %% "scalatest" % "3.1.1" % "test",
   "com.novocode" % "junit-interface" % "0.11" % "test",
   "com.typesafe.play" %% "play-json" % "2.7.4",
-  "org.apache.httpcomponents" % "httpclient" % "4.5.10")
+  "org.apache.httpcomponents" % "httpclient" % "4.5.10",
+  "org.scalatest" %% "autofix" % "3.1.0.0",
+  "org.json4s" %% "json4s-native" % "latest.integration")
