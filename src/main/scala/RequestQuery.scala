@@ -4,7 +4,7 @@ import CommandUser.QueryUserCommand
 import GitHub.GitHubObj.EmptyObj
 import com.typesafe.scalalogging.LazyLogging
 import com.typesafe.config.{Config, ConfigFactory}
-import scala.collection.JavaConverters
+import scala.jdk.CollectionConverters
 
 
 object RequestQuery extends App with LazyLogging{
@@ -19,7 +19,7 @@ object RequestQuery extends App with LazyLogging{
 
   //For building the query -> REPOSITORY
   val queryType = conf.getString("queryType")
-  val language = JavaConverters.asScalaBufferConverter(conf.getStringList("language")).asScala.toList
+  val language = CollectionConverters.ListHasAsScala(conf.getStringList("language")).asScala.toList
   val first = conf.getInt("first")
   val commitCommentsFirst = conf.getString("commitCommentsFirst")
   val commitCommentsValue = conf.getInt("commitCommentsValue")
