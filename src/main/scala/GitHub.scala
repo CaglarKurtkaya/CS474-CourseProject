@@ -2,10 +2,10 @@ import GitHub.GitHubObj.{CompleteGitHubObj, EmptyObj, SetAuthorization, SetHeade
 import com.typesafe.scalalogging.LazyLogging
 import org.apache.http.client.methods.HttpPost
 import org.apache.http.impl.client.{CloseableHttpClient, HttpClientBuilder}
+import com.typesafe.config.{Config, ConfigFactory}
 
 
 case class GHQLRespone(httpUriRequest: HttpPost, client: CloseableHttpClient )
-
 
 object GitHub{
   //Phantom type of Github object
@@ -22,8 +22,12 @@ object GitHub{
 class GitHub[GitHubObj <: GitHub.GitHubObj](private val httpUriRequest : HttpPost = null, private val client : CloseableHttpClient = HttpClientBuilder.create.build) extends LazyLogging{
   //Method for set up the Http
   def setHttp()(implicit ev: GitHubObj =:= GitHubObj with EmptyObj):(GitHub[GitHubObj with EmptyObj with SetHttp])= {
-    val BASE_GHQL_URL ="https://api.github.com/graphql"
+    //For loading the config file
+    val conf: Config = ConfigFactory.load()
+
+    val BASE_GHQL_URL = conf.getString("BASE_GHQL_URL")
     val httpUriRequest = new HttpPost(BASE_GHQL_URL)
+
     logger.debug("Building GitHub object with setHttp")
     new GitHub[GitHubObj with EmptyObj with SetHttp](httpUriRequest)
   }
