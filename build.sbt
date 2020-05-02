@@ -2,7 +2,7 @@ name := "Project"
 
 version := "0.1"
 
-scalaVersion := "2.13.1"
+scalaVersion := "2.13.2"
 
 libraryDependencies ++= Seq(
   "ch.qos.logback" % "logback-classic" % "1.2.3",

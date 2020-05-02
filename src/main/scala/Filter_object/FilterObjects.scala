@@ -1,3 +1,5 @@
+package Filter_object
+
 class FilterObjects {
   //Method for matching the symbol case
   def predicateForFilter(userInput: String, value: Int) : Boolean = {

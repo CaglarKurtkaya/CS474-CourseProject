@@ -1,8 +1,10 @@
-import GitHub.GitHubObj.{CompleteGitHubObj, EmptyObj, SetAuthorization, SetHeader, SetHttp}
+package Builder_pattern
+
+import GitHub.GitHubObj._
+import com.typesafe.config.{Config, ConfigFactory}
 import com.typesafe.scalalogging.LazyLogging
 import org.apache.http.client.methods.HttpPost
 import org.apache.http.impl.client.{CloseableHttpClient, HttpClientBuilder}
-import com.typesafe.config.{Config, ConfigFactory}
 
 
 case class GHQLRespone(httpUriRequest: HttpPost, client: CloseableHttpClient )

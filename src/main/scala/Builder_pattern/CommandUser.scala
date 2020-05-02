@@ -1,7 +1,11 @@
+package Builder_pattern
+
+import CommandUser.QueryUserCommand.{CompleteQueryUserCommand, FirstC, UserC, UserN}
+import Parser.ParseUserResponse
+import Queries.QueryUser
+import com.typesafe.scalalogging.LazyLogging
 import org.apache.http.entity.StringEntity
 import org.apache.http.util.EntityUtils
-import CommandUser.QueryUserCommand.{CompleteQueryUserCommand, FirstC, UserC, UserN}
-import com.typesafe.scalalogging.LazyLogging
 
 object CommandUser{
   trait QueryUserCommand

@@ -1,5 +1,8 @@
-import Command.QueryCommand
-import GitHub.GitHubObj.EmptyObj
+import Builder_pattern.Command.QueryCommand
+import Builder_pattern.{Command, GHQLRespone, GitHub, Repository, User}
+import Builder_pattern.GitHub.GitHubObj.EmptyObj
+import Filter_object.{Forks, Stars, Watchers}
+import Parser.ParseRepoResponse
 import org.apache.http.entity.StringEntity
 import org.apache.http.util.EntityUtils
 import org.scalatest.FlatSpec
@@ -22,6 +25,7 @@ class Test extends FlatSpec {
 
   val response: String = EntityUtils.toString(resp.getEntity)
 
+
   //Testing the GitHub object
   "Github object" should "not be None" in {
     assert(gitHubObject != None)
@@ -34,7 +38,7 @@ class Test extends FlatSpec {
 
   //Testing the query if the repo name is the same
   "Query" should "generate result" in {
-    val result: Seq[Repository] = (new ParseResponse).processResult(response)
+    val result: Seq[Repository] = (new ParseRepoResponse).processResult(response)
 
     assert(result.exists(x => x.name == "\"CS-Notes\""))
   }
@@ -47,12 +51,12 @@ class Test extends FlatSpec {
     assert(result.exists(x => x.forkCount > 21584))
   }
 
-  //Testing if the watcher count is greater than 2117
-  "Watcher count" should "be greater than 2117" in {
+  //Testing if the watcher count is greater than 796
+  "Watcher count" should "be greater than 796" in {
     val result = gitHubObject.flatMap(new Command[QueryCommand].setRepo(TestConstant.QUERY_TYPE).setLanguages(TestConstant.languageList).setFirst(TestConstant.setFirst).setCommitComments("first", 2).build())
-      .get.filter(Watchers("_>2117"))
+      .get.filter(Watchers("_>796"))
 
-    assert(result.exists(x => x.watchersCount > 2117))
+    assert(result.exists(x => x.watchersCount > 796))
   }
 
   //Testing if the stars count is greater than 25882

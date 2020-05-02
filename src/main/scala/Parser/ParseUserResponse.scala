@@ -1,4 +1,8 @@
+package Parser
+
+import Builder_pattern.User
 import play.api.libs.json.{JsArray, JsValue, Json}
+
 import scala.collection.mutable.ListBuffer
 
 class ParseUserResponse {

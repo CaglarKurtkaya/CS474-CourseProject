@@ -1,12 +1,15 @@
+package Parser
+
 import java.util.{Date, NoSuchElementException}
 
+import Builder_pattern.{CommitComments, PullRequest, Repository}
 import com.typesafe.scalalogging.LazyLogging
-import play.api.libs.json.{JsArray, JsNumber, JsString, JsValue, Json}
+import play.api.libs.json._
 
 import scala.collection.mutable.ListBuffer
 
 
-class ParseResponse extends LazyLogging{
+class ParseRepoResponse extends LazyLogging{
 
   //Method for putting the repo in a list
   def processResult(queryResult : String) : List[Repository] = {

@@ -1,7 +1,11 @@
+package Builder_pattern
+
+import Command.QueryCommand.{CompleteQueryCommand, First, Languages, Repo}
+import Parser.ParseRepoResponse
+import Queries.Query
+import com.typesafe.scalalogging.LazyLogging
 import org.apache.http.entity.StringEntity
 import org.apache.http.util.EntityUtils
-import Command.QueryCommand.{CompleteQueryCommand, First, Languages, Repo}
-import com.typesafe.scalalogging.LazyLogging
 
 
 object Command{
@@ -77,7 +81,7 @@ class Command[QueryCommand <: Command.QueryCommand](private val repoType : Strin
     val response: String = EntityUtils.toString(resp.getEntity)
 
     //Get the parsed result
-    val result: List[Repository] = (new ParseResponse).processResult(response)
+    val result: List[Repository] = (new ParseRepoResponse).processResult(response)
 
     logger.debug("Generating the repo")
 
