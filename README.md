@@ -130,16 +130,16 @@ This allows users to be able to call monadic functions like flatMap and modify t
 
 **_Example of how queries can be built_**
 
-![final_pic2.jpg](https://bitbucket.org/repo/BkzXg4b/images/4107506464-final_pic2.jpg)
+![final_pic2.jpg](https://i.imgur.com/C07gxMc.jpg)
 
 
 
 **_Here is the RepoOutput_**
 
-![final_pic3.jpg](https://bitbucket.org/repo/BkzXg4b/images/2002645489-final_pic3.jpg)
+![final_pic3.jpg](https://i.imgur.com/8uw53nG.jpg)
 
 
 **_Here is the UserOutput_**
 
-![final_pic4.jpg](https://bitbucket.org/repo/BkzXg4b/images/2482724555-final_pic4.jpg)
+![final_pic4.jpg](https://i.imgur.com/DeQqBm3.jpg)
 
