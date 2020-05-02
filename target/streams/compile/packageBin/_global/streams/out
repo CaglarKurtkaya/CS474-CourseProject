@@ -1,0 +1,137 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/Emily/Google Drive (wlin48@uic.edu)/UIC/Course/Spring 20/CS 474/Project/target/scala-2.13/project_2.13-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FancyPrinter$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/Emily/Google Drive (wlin48@uic.edu)/UIC/Course/Spring 20/CS 474/Project/target/scala-2.13/classes/FancyPrinter$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Builder_pattern[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/Emily/Google Drive (wlin48@uic.edu)/UIC/Course/Spring 20/CS 474/Project/target/scala-2.13/classes/Builder_pattern[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Builder_pattern/PullRequest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/Emily/Google Drive (wlin48@uic.edu)/UIC/Course/Spring 20/CS 474/Project/target/scala-2.13/classes/Builder_pattern/PullRequest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Builder_pattern/GitHub$GitHubObj.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/Emily/Google Drive (wlin48@uic.edu)/UIC/Course/Spring 20/CS 474/Project/target/scala-2.13/classes/Builder_pattern/GitHub$GitHubObj.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Builder_pattern/CommandUser$QueryUserCommand$FirstC.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/Emily/Google Drive (wlin48@uic.edu)/UIC/Course/Spring 20/CS 474/Project/target/scala-2.13/classes/Builder_pattern/CommandUser$QueryUserCommand$FirstC.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Builder_pattern/PullRequest$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/Emily/Google Drive (wlin48@uic.edu)/UIC/Course/Spring 20/CS 474/Project/target/scala-2.13/classes/Builder_pattern/PullRequest$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Builder_pattern/CommandUser$QueryUserCommand$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/Emily/Google Drive (wlin48@uic.edu)/UIC/Course/Spring 20/CS 474/Project/target/scala-2.13/classes/Builder_pattern/CommandUser$QueryUserCommand$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Builder_pattern/GitHub$GitHubObj$SetAuthorization.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/Emily/Google Drive (wlin48@uic.edu)/UIC/Course/Spring 20/CS 474/Project/target/scala-2.13/classes/Builder_pattern/GitHub$GitHubObj$SetAuthorization.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Builder_pattern/Command$QueryCommand$Repo.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/Emily/Google Drive (wlin48@uic.edu)/UIC/Course/Spring 20/CS 474/Project/target/scala-2.13/classes/Builder_pattern/Command$QueryCommand$Repo.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Builder_pattern/GitHub$GitHubObj$SetHttp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/Emily/Google Drive (wlin48@uic.edu)/UIC/Course/Spring 20/CS 474/Project/target/scala-2.13/classes/Builder_pattern/GitHub$GitHubObj$SetHttp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Builder_pattern/CommandUser$QueryUserCommand$UserC.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/Emily/Google Drive (wlin48@uic.edu)/UIC/Course/Spring 20/CS 474/Project/target/scala-2.13/classes/Builder_pattern/CommandUser$QueryUserCommand$UserC.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Builder_pattern/GitHub$GitHubObj$SetHeader.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/Emily/Google Drive (wlin48@uic.edu)/UIC/Course/Spring 20/CS 474/Project/target/scala-2.13/classes/Builder_pattern/GitHub$GitHubObj$SetHeader.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Builder_pattern/Repository$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/Emily/Google Drive (wlin48@uic.edu)/UIC/Course/Spring 20/CS 474/Project/target/scala-2.13/classes/Builder_pattern/Repository$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Builder_pattern/Command.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/Emily/Google Drive (wlin48@uic.edu)/UIC/Course/Spring 20/CS 474/Project/target/scala-2.13/classes/Builder_pattern/Command.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Builder_pattern/GHQLRespone$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/Emily/Google Drive (wlin48@uic.edu)/UIC/Course/Spring 20/CS 474/Project/target/scala-2.13/classes/Builder_pattern/GHQLRespone$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Builder_pattern/User.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/Emily/Google Drive (wlin48@uic.edu)/UIC/Course/Spring 20/CS 474/Project/target/scala-2.13/classes/Builder_pattern/User.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Builder_pattern/CommandUser$QueryUserCommand.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/Emily/Google Drive (wlin48@uic.edu)/UIC/Course/Spring 20/CS 474/Project/target/scala-2.13/classes/Builder_pattern/CommandUser$QueryUserCommand.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Builder_pattern/Command$QueryCommand.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/Emily/Google Drive (wlin48@uic.edu)/UIC/Course/Spring 20/CS 474/Project/target/scala-2.13/classes/Builder_pattern/Command$QueryCommand.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Builder_pattern/Command$QueryCommand$First.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/Emily/Google Drive (wlin48@uic.edu)/UIC/Course/Spring 20/CS 474/Project/target/scala-2.13/classes/Builder_pattern/Command$QueryCommand$First.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Builder_pattern/Repository.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/Emily/Google Drive (wlin48@uic.edu)/UIC/Course/Spring 20/CS 474/Project/target/scala-2.13/classes/Builder_pattern/Repository.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Builder_pattern/GHQLRespone.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/Emily/Google Drive (wlin48@uic.edu)/UIC/Course/Spring 20/CS 474/Project/target/scala-2.13/classes/Builder_pattern/GHQLRespone.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Builder_pattern/GitHub.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/Emily/Google Drive (wlin48@uic.edu)/UIC/Course/Spring 20/CS 474/Project/target/scala-2.13/classes/Builder_pattern/GitHub.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Builder_pattern/Command$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/Emily/Google Drive (wlin48@uic.edu)/UIC/Course/Spring 20/CS 474/Project/target/scala-2.13/classes/Builder_pattern/Command$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Builder_pattern/GitHub$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/Emily/Google Drive (wlin48@uic.edu)/UIC/Course/Spring 20/CS 474/Project/target/scala-2.13/classes/Builder_pattern/GitHub$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Builder_pattern/CommitComments.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/Emily/Google Drive (wlin48@uic.edu)/UIC/Course/Spring 20/CS 474/Project/target/scala-2.13/classes/Builder_pattern/CommitComments.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Builder_pattern/User$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/Emily/Google Drive (wlin48@uic.edu)/UIC/Course/Spring 20/CS 474/Project/target/scala-2.13/classes/Builder_pattern/User$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Builder_pattern/CommandUser$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/Emily/Google Drive (wlin48@uic.edu)/UIC/Course/Spring 20/CS 474/Project/target/scala-2.13/classes/Builder_pattern/CommandUser$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Builder_pattern/Command$QueryCommand$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/Emily/Google Drive (wlin48@uic.edu)/UIC/Course/Spring 20/CS 474/Project/target/scala-2.13/classes/Builder_pattern/Command$QueryCommand$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Builder_pattern/Command$QueryCommand$Languages.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/Emily/Google Drive (wlin48@uic.edu)/UIC/Course/Spring 20/CS 474/Project/target/scala-2.13/classes/Builder_pattern/Command$QueryCommand$Languages.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Builder_pattern/CommitComments$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/Emily/Google Drive (wlin48@uic.edu)/UIC/Course/Spring 20/CS 474/Project/target/scala-2.13/classes/Builder_pattern/CommitComments$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Builder_pattern/CommandUser$QueryUserCommand$UserN.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/Emily/Google Drive (wlin48@uic.edu)/UIC/Course/Spring 20/CS 474/Project/target/scala-2.13/classes/Builder_pattern/CommandUser$QueryUserCommand$UserN.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Builder_pattern/GitHub$GitHubObj$EmptyObj.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/Emily/Google Drive (wlin48@uic.edu)/UIC/Course/Spring 20/CS 474/Project/target/scala-2.13/classes/Builder_pattern/GitHub$GitHubObj$EmptyObj.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Builder_pattern/GitHub$GitHubObj$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/Emily/Google Drive (wlin48@uic.edu)/UIC/Course/Spring 20/CS 474/Project/target/scala-2.13/classes/Builder_pattern/GitHub$GitHubObj$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Builder_pattern/CommandUser.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/Emily/Google Drive (wlin48@uic.edu)/UIC/Course/Spring 20/CS 474/Project/target/scala-2.13/classes/Builder_pattern/CommandUser.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Queries[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/Emily/Google Drive (wlin48@uic.edu)/UIC/Course/Spring 20/CS 474/Project/target/scala-2.13/classes/Queries[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Queries/QueryUser.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/Emily/Google Drive (wlin48@uic.edu)/UIC/Course/Spring 20/CS 474/Project/target/scala-2.13/classes/Queries/QueryUser.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Queries/Query.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/Emily/Google Drive (wlin48@uic.edu)/UIC/Course/Spring 20/CS 474/Project/target/scala-2.13/classes/Queries/Query.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Queries/Query$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/Emily/Google Drive (wlin48@uic.edu)/UIC/Course/Spring 20/CS 474/Project/target/scala-2.13/classes/Queries/Query$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Queries/QueryUser$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/Emily/Google Drive (wlin48@uic.edu)/UIC/Course/Spring 20/CS 474/Project/target/scala-2.13/classes/Queries/QueryUser$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	META-INF[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/Emily/Google Drive (wlin48@uic.edu)/UIC/Course/Spring 20/CS 474/Project/target/scala-2.13/classes/META-INF[0m
+[0m[[0m[0mdebug[0m] [0m[0m	META-INF/Project.kotlin_module[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/Emily/Google Drive (wlin48@uic.edu)/UIC/Course/Spring 20/CS 474/Project/target/scala-2.13/classes/META-INF/Project.kotlin_module[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Parser[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/Emily/Google Drive (wlin48@uic.edu)/UIC/Course/Spring 20/CS 474/Project/target/scala-2.13/classes/Parser[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Parser/ParseRepoResponse.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/Emily/Google Drive (wlin48@uic.edu)/UIC/Course/Spring 20/CS 474/Project/target/scala-2.13/classes/Parser/ParseRepoResponse.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Parser/ParseUserResponse.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/Emily/Google Drive (wlin48@uic.edu)/UIC/Course/Spring 20/CS 474/Project/target/scala-2.13/classes/Parser/ParseUserResponse.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Driver.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/Emily/Google Drive (wlin48@uic.edu)/UIC/Course/Spring 20/CS 474/Project/target/scala-2.13/classes/Driver.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	application.conf[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/Emily/Google Drive (wlin48@uic.edu)/UIC/Course/Spring 20/CS 474/Project/target/scala-2.13/classes/application.conf[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Driver$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/Emily/Google Drive (wlin48@uic.edu)/UIC/Course/Spring 20/CS 474/Project/target/scala-2.13/classes/Driver$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FancyPrinter.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/Emily/Google Drive (wlin48@uic.edu)/UIC/Course/Spring 20/CS 474/Project/target/scala-2.13/classes/FancyPrinter.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Driver$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/Emily/Google Drive (wlin48@uic.edu)/UIC/Course/Spring 20/CS 474/Project/target/scala-2.13/classes/Driver$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Filter_object[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/Emily/Google Drive (wlin48@uic.edu)/UIC/Course/Spring 20/CS 474/Project/target/scala-2.13/classes/Filter_object[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Filter_object/Repos.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/Emily/Google Drive (wlin48@uic.edu)/UIC/Course/Spring 20/CS 474/Project/target/scala-2.13/classes/Filter_object/Repos.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Filter_object/Commits$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/Emily/Google Drive (wlin48@uic.edu)/UIC/Course/Spring 20/CS 474/Project/target/scala-2.13/classes/Filter_object/Commits$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Filter_object/ContribRepos$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/Emily/Google Drive (wlin48@uic.edu)/UIC/Course/Spring 20/CS 474/Project/target/scala-2.13/classes/Filter_object/ContribRepos$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Filter_object/Repos$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/Emily/Google Drive (wlin48@uic.edu)/UIC/Course/Spring 20/CS 474/Project/target/scala-2.13/classes/Filter_object/Repos$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Filter_object/FilterObjects.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/Emily/Google Drive (wlin48@uic.edu)/UIC/Course/Spring 20/CS 474/Project/target/scala-2.13/classes/Filter_object/FilterObjects.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Filter_object/Forks.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/Emily/Google Drive (wlin48@uic.edu)/UIC/Course/Spring 20/CS 474/Project/target/scala-2.13/classes/Filter_object/Forks.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Filter_object/Forks$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/Emily/Google Drive (wlin48@uic.edu)/UIC/Course/Spring 20/CS 474/Project/target/scala-2.13/classes/Filter_object/Forks$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Filter_object/Followers$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/Emily/Google Drive (wlin48@uic.edu)/UIC/Course/Spring 20/CS 474/Project/target/scala-2.13/classes/Filter_object/Followers$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Filter_object/Commits.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/Emily/Google Drive (wlin48@uic.edu)/UIC/Course/Spring 20/CS 474/Project/target/scala-2.13/classes/Filter_object/Commits.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Filter_object/Stars.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/Emily/Google Drive (wlin48@uic.edu)/UIC/Course/Spring 20/CS 474/Project/target/scala-2.13/classes/Filter_object/Stars.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Filter_object/Watchers.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/Emily/Google Drive (wlin48@uic.edu)/UIC/Course/Spring 20/CS 474/Project/target/scala-2.13/classes/Filter_object/Watchers.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Filter_object/ContribRepos.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/Emily/Google Drive (wlin48@uic.edu)/UIC/Course/Spring 20/CS 474/Project/target/scala-2.13/classes/Filter_object/ContribRepos.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Filter_object/Following.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/Emily/Google Drive (wlin48@uic.edu)/UIC/Course/Spring 20/CS 474/Project/target/scala-2.13/classes/Filter_object/Following.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Filter_object/Following$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/Emily/Google Drive (wlin48@uic.edu)/UIC/Course/Spring 20/CS 474/Project/target/scala-2.13/classes/Filter_object/Following$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Filter_object/Watchers$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/Emily/Google Drive (wlin48@uic.edu)/UIC/Course/Spring 20/CS 474/Project/target/scala-2.13/classes/Filter_object/Watchers$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Filter_object/Stars$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/Emily/Google Drive (wlin48@uic.edu)/UIC/Course/Spring 20/CS 474/Project/target/scala-2.13/classes/Filter_object/Stars$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Filter_object/Followers.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/Emily/Google Drive (wlin48@uic.edu)/UIC/Course/Spring 20/CS 474/Project/target/scala-2.13/classes/Filter_object/Followers.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
