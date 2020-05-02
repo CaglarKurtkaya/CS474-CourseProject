@@ -130,7 +130,7 @@ This allows users to be able to call monadic functions like flatMap and modify t
 
 **_Example of how queries can be built_**
 
-![final_pic2.jpg](https://i.imgur.com/C07gxMc.jpg)
+![final_pic5.jpg](https://i.imgur.com/UEQ3Lbh.jpg)
 
 
 
