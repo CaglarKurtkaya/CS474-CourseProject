@@ -141,5 +141,5 @@ This allows users to be able to call monadic functions like flatMap and modify t
 
 **_Here is the UserOutput_**
 
-![final_pic4.jpg](https://bitbucket.org/repo/BkzXg4b/images/2022452026-final_pic4.jpg)
+![final_pic4.jpg](https://bitbucket.org/repo/BkzXg4b/images/2482724555-final_pic4.jpg)
 
