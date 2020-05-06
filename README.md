@@ -139,15 +139,21 @@ For setting up the commit comments, user can choose first or last and how many c
 Below is the list of objects that user can use to filter out the repositories if the query type is REPOSITORY :
 
 Forks
+
 Stars
+
 Watchers
+
 Commits
 
 Below is the list of objects that user can use to filter out the repositories if the query type is USER :
 
 ContribRepos
+
 Followers
+
 Following
+
 Repos
 
 **_Example of how queries can be built_**
