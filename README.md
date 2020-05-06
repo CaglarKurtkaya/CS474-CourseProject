@@ -128,6 +128,28 @@ The build() returns a tuple of (httpUriRequest : HttpPost,client : CloseableHttp
 This object will build a query with given inputs and returns GHQLRespone => Option[List[Repository]]  
 This allows users to be able to call monadic functions like flatMap and modify the type of query.
 
+For setting up the language for the query, user can pass in a list of language they want to search
+
+For the query type, user can choose in between REPOSITORY or USER
+
+For setting how many repositories they want to print to the file, they can pass in integer in setFirst
+
+For setting up the commit comments, user can choose first or last and how many comments they want
+
+Below is the list of objects that user can use to filter out the repositories if the query type is REPOSITORY :
+
+Forks
+Stars
+Watchers
+Commits
+
+Below is the list of objects that user can use to filter out the repositories if the query type is USER :
+
+ContribRepos
+Followers
+Following
+Repos
+
 **_Example of how queries can be built_**
 
 ![final_pic5.jpg](https://i.imgur.com/UEQ3Lbh.jpg)
